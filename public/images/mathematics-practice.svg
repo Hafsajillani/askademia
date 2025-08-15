@@ -1,0 +1,46 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="black"/>
+  
+  <!-- Abstract background shapes -->
+  <path d="M30 30 Q70 20 110 40 Q150 60 170 40" stroke="#444" stroke-width="6" fill="none"/>
+  <path d="M160 160 Q120 140 80 170 Q40 150 20 170" stroke="#444" stroke-width="8" fill="none"/>
+  
+  <!-- Background curved lines -->
+  <path d="M10 40 Q50 60 90 40 Q130 60 170 50" stroke="white" stroke-width="2" fill="none"/>
+  <path d="M30 160 Q70 140 110 170 Q150 150 190 160" stroke="white" stroke-width="2" fill="none"/>
+  
+  <!-- Person -->
+  <circle cx="100" cy="90" r="10" fill="#333"/>
+  <rect x="90" y="100" width="20" height="30" fill="#0066cc" rx="2"/>
+  <rect x="92" y="130" width="7" height="15" fill="#333"/>
+  <rect x="101" y="130" width="7" height="15" fill="#333"/>
+  
+  <!-- Person's face -->
+  <path d="M96 88 Q100 86 104 88" stroke="#333" stroke-width="1" fill="none"/>
+  
+  <!-- Seat/cushion -->
+  <ellipse cx="100" cy="155" rx="25" ry="8" fill="#663399"/>
+  
+  <!-- Foot rest -->
+  <rect x="85" y="145" width="10" height="5" fill="#ff4444" rx="1"/>
+  
+  <!-- Book -->
+  <rect x="80" y="105" width="35" height="25" fill="#ff4444" rx="2"/>
+  <line x1="85" y1="110" x2="110" y2="110" stroke="white" stroke-width="1"/>
+  <line x1="85" y1="113" x2="110" y2="113" stroke="white" stroke-width="1"/>
+  <line x1="85" y1="116" x2="110" y2="116" stroke="white" stroke-width="1"/>
+  <line x1="85" y1="119" x2="110" y2="119" stroke="white" stroke-width="1"/>
+  <line x1="85" y1="122" x2="110" y2="122" stroke="white" stroke-width="1"/>
+  
+  <!-- Geometric shapes -->
+  <circle cx="60" cy="50" r="8" fill="#ccc"/>
+  <rect x="40" y="80" width="16" height="16" fill="#ccc"/>
+  <polygon points="150,40 155,50 145,50" fill="white"/>
+  
+  <!-- Pi symbol -->
+  <text x="140" y="70" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ff69b4">π</text>
+  
+  <!-- Additional mathematical elements -->
+  <text x="50" y="110" font-family="Arial, sans-serif" font-size="12" fill="white">x²</text>
+  <text x="160" y="120" font-family="Arial, sans-serif" font-size="12" fill="white">∫</text>
+</svg> 

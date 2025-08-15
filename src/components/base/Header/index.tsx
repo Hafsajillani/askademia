@@ -31,6 +31,10 @@ const Header = () => {
       {
         label: "FAQs",
         url: "#faqs",
+      },
+      {
+        label: "Login",
+        url: "/login",
       }
     ];
 
